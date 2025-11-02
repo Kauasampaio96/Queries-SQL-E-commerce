@@ -13,6 +13,8 @@ O objetivo é extrair subconjuntos de dados muito específicos de tabelas de cli
 
 Abaixo está o detalhamento de cada consulta solicitada.
 
+* **Arquivo de Resposta:** [`Conjunto de Perguntas1.sql`](./Conjunto%20de%20Perguntas1.sql)
+
 ### 1. Localização Geral dos Clientes
 > **Pergunta:** Gere uma tabela com o id do cliente, a cidade e o estado onde ele vive.
 
