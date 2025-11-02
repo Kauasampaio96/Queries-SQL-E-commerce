@@ -89,5 +89,5 @@ Abaixo está o detalhamento de cada consulta solicitada.
 <details>
   <summary>Clique para ver o Resultado</summary>
   
-  ![Resultado da Query 1](./assets_c1_/q7_c1.png)
+  ![Resultado da Query 1](./assets_c1/q7_c1.png)
 </details>
