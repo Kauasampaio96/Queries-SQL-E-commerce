@@ -23,7 +23,7 @@ Abaixo está o detalhamento de cada consulta solicitada.
 <details>
   <summary>Clique para ver o Resultado</summary>
   
-  ![Resultado da Query 1](./assets/q1_c1.png)
+  ![Resultado da Query 1](./assets_c1/q1_c1.png)
 </details>
 
 ### 2. Clientes de Santa Catarina
@@ -34,7 +34,7 @@ Abaixo está o detalhamento de cada consulta solicitada.
 <details>
   <summary>Clique para ver o Resultado</summary>
   
-  ![Resultado da Query 1](./assets/q2_c1.png)
+  ![Resultado da Query 1](./assets_c1/q2_c1.png)
 </details>
 
 ### 3. Clientes de Florianópolis
@@ -45,7 +45,7 @@ Abaixo está o detalhamento de cada consulta solicitada.
 <details>
   <summary>Clique para ver o Resultado</summary>
   
-  ![Resultado da Query 1](./assets/q3_c1.png)
+  ![Resultado da Query 1](./assets_c1/q3_c1.png)
 </details>
 
 ### 4. Coordenadas de São Paulo
@@ -56,7 +56,7 @@ Abaixo está o detalhamento de cada consulta solicitada.
 <details>
   <summary>Clique para ver o Resultado</summary>
   
-  ![Resultado da Query 1](./assets/q4_c1.png)
+  ![Resultado da Query 1](./assets_c1/q4_c1.png)
 </details>
 
 ### 5. Produtos de Alto Valor
@@ -67,7 +67,7 @@ Abaixo está o detalhamento de cada consulta solicitada.
 <details>
   <summary>Clique para ver o Resultado</summary>
   
-  ![Resultado da Query 1](./assets/q5_c1.png)
+  ![Resultado da Query 1](./assets_c1/q5_c1.png)
 </details>
 
 ### 6. Pedidos com Parcela Única
@@ -78,7 +78,7 @@ Abaixo está o detalhamento de cada consulta solicitada.
 <details>
   <summary>Clique para ver o Resultado</summary>
   
-  ![Resultado da Query 1](./assets/q6_c1.png)
+  ![Resultado da Query 1](./assets_c1/q6_c1.png)
 </details>
 
 ### 7. Pedidos Antigos Aprovados
@@ -89,5 +89,5 @@ Abaixo está o detalhamento de cada consulta solicitada.
 <details>
   <summary>Clique para ver o Resultado</summary>
   
-  ![Resultado da Query 1](./assets/q7_c1.png)
+  ![Resultado da Query 1](./assets_c1_/q7_c1.png)
 </details>
