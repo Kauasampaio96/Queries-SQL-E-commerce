@@ -1,13 +1,3 @@
--- Query Exemplo da Aula
-SELECT
-	o.customer_id,
-	o.order_id,
-	o.order_status
-FROM orders o
-WHERE
-	o.order_status = 'shipped'
-;
-
 /* Gere uma tabela com o id do cliente, a cidade e o
 estado onde ele vive.
 */
