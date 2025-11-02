@@ -13,7 +13,7 @@ somente dos clientes que vivem em Santa Catarina.
 */
 SELECT
 	c.customer_city,
-	c.customer_id,
+	c.customer_id
 FROM customer c
 WHERE c.customer_state = 'SC'
 LIMIT 10;
@@ -32,10 +32,10 @@ LIMIT 10;
 --Query para responder a pergunta
 SELECT
 	c.customer_id,
-	c.customer_state
+	c.customer_city
 FROM customer c
-WHERE c.customer_city = 'florianopolis'
-LIMIT 10;
+WHERE c.customer_state = 'SC'
+LIMIT 15;
 
 
 /*Gere uma tabela com o estado, latitude e longitude do
